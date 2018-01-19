@@ -1,8 +1,9 @@
 # IslandJamz-Drums
 supplement your pehe lesson
 
-This was a final project for the AA in Mobile+Web Design for Berkeley City College
-Stick with it - Tahitian Drumming App
+This was a final project for the AA in Mobile+Web Design for Berkeley City College. Revised final paper below.
+
+Stick with it - Tahitian Drumming via PC/Laptop
 The age old idea that “practice makes perfect,” is an accurate idiom for Tahitian drumming students. To achieve continuous success in
 this art form, one needs to practice drum beats repeatedly so that one is prepared to harmonize with fellow drum members. In order to
 get to the level of harmony with the drummer self and others, one must practice, study, and perfect their timing, tempo, and stamina in
